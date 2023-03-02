@@ -18,11 +18,11 @@ The following steps constitute your assignment :
 The below table must contain the details of the repositories you will create, fill it please.
 
 
-|  | Project's Name | Description    | GitHub's Link  |
-|:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+|  | Project's Name       | Description                | GitHub's Link                                        |
+|:-:|:-------------------:|:--------------------------:|:----------------------------------------------------:|
+| 1 |  -Caesar-Encryption |  - AKA shift cipher        | https://github.com/kagajugrace/Caesar-Encryption.git |
+| 2 |  -Password-generator| - Random passwords         | https://github.com/kagajugrace/Password-generator.git|
+| 3 |  -sale_operation    | - zero-stock level strategy| https://github.com/kagajugrace/sale_operation.git    |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
